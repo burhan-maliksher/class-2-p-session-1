@@ -11,6 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          hello deployed on surge and yml file working with no error
         </p>
         <a
           className="App-link"
