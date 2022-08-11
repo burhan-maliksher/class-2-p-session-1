@@ -1,7 +1,7 @@
 // impot react added to fix error at build on deploying
 import React from 'react';
 // import ReactDOM from 'react-dom';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
